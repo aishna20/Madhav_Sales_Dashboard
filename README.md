@@ -1,4 +1,4 @@
-# power_bi_dashboard
+
 # 📊 Madhav Sales Dashboard
 
 An interactive and insightful sales dashboard built for **Madhav Enterprises** to track sales performance, visualize key metrics, and make data-driven decisions.
